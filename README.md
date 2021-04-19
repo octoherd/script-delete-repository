@@ -1,5 +1,3 @@
-# 🚧 WORK IN PROGRESS. See [#1](https://github.com/octoherd/script-delete-repository/pull/1) | [Preview](https://github.com/octoherd/script-delete-repository/tree/initial-version)
-
 # script-delete-repository
 
 > An Octoherd script to delete repositories
